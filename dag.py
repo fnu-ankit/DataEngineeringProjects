@@ -7,7 +7,7 @@ default_args = {
     'owner': 'airflow',
     'start_date': datetime(2023, 12, 18),
     'depends_on_past': False,
-    'email': ['sendml2ankit@gmail.com'],
+    'email': ['test@gmail.com'],
     'email_on_failure': True,
     'email_on_retry': False,
     'retries': 1,

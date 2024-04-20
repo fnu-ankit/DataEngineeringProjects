@@ -8,7 +8,7 @@ url = "https://cricbuzz-cricket.p.rapidapi.com/stats/v1/rankings/batsmen"
 querystring = {"formatType":"odi"}
 
 headers = {
-	"X-RapidAPI-Key": "fc69733edbmsh9bdf2f51eb88710p14a0cdjsn7db96e5af297",
+	"X-RapidAPI-Key": "swaswfc69733edbmsh9bdf2f51eb88710p14a0cdjsn7db96e5af297",
 	"X-RapidAPI-Host": "cricbuzz-cricket.p.rapidapi.com"
 }
 
